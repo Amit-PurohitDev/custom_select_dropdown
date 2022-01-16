@@ -52,6 +52,7 @@
   right: 10px;
   -webkit-transition: .3s;
   transition: .3s;
+  width: 15px;
 }
 
 .windowWrapper .dropdown_container .dropdown_option {
